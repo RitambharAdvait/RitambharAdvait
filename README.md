@@ -17,7 +17,7 @@
 
 ---
 
-![snake gif](https://github.com/YOUR_USERNAME/RitambharAdvait/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/RitambharAdvait/RitambharAdvait/blob/output/github-snake-dark.svg)
 
 [![](https://komarev.com/ghpvc/?username=RitambharAdvait&icon=0&color=0)](https://visitcount.itsvg.in)
 
