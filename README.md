@@ -16,9 +16,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RitambharAdvait&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-<div align="centre">
-  ![snake gif](https://github.com/YOUR_USERNAME/RitambharAdvait/blob/output/github-snake-dark.svg)
-</div>
+
+![snake gif](https://github.com/YOUR_USERNAME/RitambharAdvait/blob/output/github-snake-dark.svg)
+
 [![](https://komarev.com/ghpvc/?username=RitambharAdvait&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
